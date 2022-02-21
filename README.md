@@ -14,7 +14,7 @@ Upcoming talks
 
 2020
 
-- [Исследование состояния DevOps в России 2020](https://habr.com/ru/company/oleg-bunin/blog/524556/)
+- [Исследование состояния DevOps в России 2020 на Habr](https://habr.com/ru/company/oleg-bunin/blog/524556/)
 - [Состояние DevOps в России 2020 на DevOpsConf 2020](https://devopsconf.io/moscow/2020/abstracts/7010)
 
 2019
