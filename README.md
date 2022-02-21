@@ -3,7 +3,7 @@ Slides, videos, and supporting files for my public talks.
 
 ## Talks
 
-Upcoming talks
+2022
 
 - [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://agiledays.ru/?speaker=2826&session=2952)  
 
