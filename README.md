@@ -5,7 +5,8 @@ Slides, videos, and supporting files for my public talks.
 
 2022
 
-- [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://agiledays.ru/?speaker=2826&session=2952)  
+- [От DevOps к Platform Engineering на DevOpsConf 2022](https://devopsconf.io/moscow/2022/abstracts/9071)
+- [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://msk22.agiledays.ru/?speaker=2826)  
 
 2021
 
