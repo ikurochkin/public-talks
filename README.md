@@ -4,8 +4,10 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2022
-
-- Дискуссионный книжный клуб #2 Team Topologies
+- DevOps is Dead на DevOops 2022
+- DevOps для CTO на South HUB
+- МК Team Topologies для тимлида на TeamLeadConf 2022
+- [Дискуссионный книжный клуб #2 Team Topologies](https://www.youtube.com/watch?v=zfZilR0iSkA)
 - [От DevOps к Platform Engineering на DevOpsConf 2022](https://devopsconf.io/moscow/2022/abstracts/9071)
 - [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://msk22.agiledays.ru/?speaker=2826)
 - [Дискуссионный книжный клуб #1 Agile 2: The next iteration of Agile](https://www.youtube.com/watch?v=0aIHx0ZFo8g) 
