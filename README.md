@@ -3,10 +3,14 @@ Slides, videos, and supporting files for my public talks.
 
 ## Talks
 
+2023
+- DevOps as a movement
+
 2022
-- [DevOps as a movement на DevOops 2022](https://devoops.ru/talks/ff9be46edae349b5b4a520df956f24e2/)
+- [Стрим про Accelerate State of DevOps Report 2022](https://t.me/dosepic/64)
 - [DevOps для CTO на South HUB](https://southhub.ru)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://teamleadconf.ru/spb/2022/abstracts/8555)
+- [Стрим про компетенции платформенных команд](https://aaleksandrov.me/ru/blog/konspekt-strima-kompetencii-platformennoy-komandy-u-dosepic/)
 - [Дискуссионный книжный клуб #2 Team Topologies](https://www.youtube.com/watch?v=zfZilR0iSkA)
 - [От DevOps к Platform Engineering на DevOpsConf 2022](https://devopsconf.io/moscow/2022/abstracts/9071)
 - [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://msk22.agiledays.ru/?speaker=2826)
