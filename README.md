@@ -5,10 +5,12 @@ Slides, videos, and supporting files for my public talks.
 
 2023
 - DevOps as a movement
+- Как подружить Agile и DevOps
 
 2022
+- Книжный клуб Code of Architecture - Technology Strategy Patterns
 - [Стрим про Accelerate State of DevOps Report 2022](https://t.me/dosepic/64)
-- [DevOps для CTO на South HUB](https://southhub.ru)
+- [DevOps для CTO на South HUB](https://www.youtube.com/watch?v=4yP-QwbhySE)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://teamleadconf.ru/spb/2022/abstracts/8555)
 - [Стрим про компетенции платформенных команд](https://aaleksandrov.me/ru/blog/konspekt-strima-kompetencii-platformennoy-komandy-u-dosepic/)
 - [Дискуссионный книжный клуб #2 Team Topologies](https://www.youtube.com/watch?v=zfZilR0iSkA)
