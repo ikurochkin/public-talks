@@ -23,7 +23,7 @@ Slides, videos, and supporting files for my public talks.
 - [Воркшоп по командным топологиям на DevOpsConf 2021](https://devopsconf.io/moscow/2021/abstracts/7572)
 
 2020
-- [Исследование состояния DevOps в России 2020 на Habr](https://habr.com/ru/company/oleg-bunin/blog/524556/)
+- [Статья про исследование состояния DevOps в России 2020](https://habr.com/ru/company/oleg-bunin/blog/524556/)
 - [Состояние DevOps в России 2020 на DevOpsConf 2020](https://devopsconf.io/moscow/2020/abstracts/7010)
 
 2019
@@ -36,7 +36,7 @@ Slides, videos, and supporting files for my public talks.
 - [Современные подходы в разработке инфраструктурного кода на Puppet на DevOpsConf 2018](https://www.slideshare.net/ikurochkin/puppet-development-kit-and-best-practices)  
 
 2015
-- [Тестируем инфраструктуру как код на Habr](https://habr.com/ru/company/express42/blog/256725/)  
+- [Статья про тестирование инфраструктуры как код](https://habr.com/ru/company/express42/blog/256725/)  
 - [Тестируем инфраструктуру как код на RootConf 2015](https://www.slideshare.net/ikurochkin/rootconf-2015)  
 
 2012
