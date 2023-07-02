@@ -4,8 +4,9 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2023
-- DevOps as a movement
-- Как подружить Agile и DevOps
+- Team Topologies на TeamLeadConf 2023
+- DevOps as a movement на DevOops 2023
+- Fail митап на Saint Highload++ 2023
 
 2022
 - Книжный клуб Code of Architecture - Technology Strategy Patterns
