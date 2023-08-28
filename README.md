@@ -4,8 +4,8 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2023
-- Team Topologies на TeamLeadConf 2023
-- DevOps as a movement на DevOops 2023
+- Team Topologies на TeamLeadConf Autumn 2023
+- [DevOps as a movement на DevOops 2023](https://devoops.ru/talks/46d375e0ad234521a70e6ef6953efc20/)
 - Fail митап на Saint Highload++ 2023
 
 2022
