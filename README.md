@@ -4,7 +4,7 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2024
-- ...
+- NextOps на DevOpsConf 2024
 
 2023
 - [DevOps as a movement на DevOops 2023](https://devoops.ru/talks/46d375e0ad234521a70e6ef6953efc20/)
