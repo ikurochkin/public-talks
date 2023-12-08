@@ -7,13 +7,13 @@ Slides, videos, and supporting files for my public talks.
 - NextOps на DevOpsConf 2024
 
 2023
-- [DevOps as a movement на DevOops 2023](https://devoops.ru/talks/46d375e0ad234521a70e6ef6953efc20/)
+- [DevOps as a movement на DevOops 2023](https://www.youtube.com/watch?v=cVPYboKqR7k)
 - [Подкаст про Knowledge Management и Obsidian для инженеров](https://jtprogru.mave.digital/ep-7)
 - [Подкаст про книгу Проект Феникс](https://jtprogru.mave.digital/ep-5)
 - [Fail митап на Saint Highload++ 2023](https://highload.ru/spb/2023/abstracts/10186)
 
 2022
-- Книжный клуб Code of Architecture - Technology Strategy Patterns
+- [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://www.youtube.com/watch?v=ltencqkEGxQ)
 - [Стрим про Accelerate State of DevOps Report 2022](https://t.me/dosepic/64)
 - [DevOps для CTO на South HUB](https://www.youtube.com/watch?v=4yP-QwbhySE)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://teamleadconf.ru/spb/2022/abstracts/8555)
