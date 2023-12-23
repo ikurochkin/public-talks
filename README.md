@@ -17,7 +17,7 @@ Slides, videos, and supporting files for my public talks.
 
 2022
 - [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://www.youtube.com/watch?v=ltencqkEGxQ)
-- [Стрим про Accelerate State of DevOps Report 2022](https://t.me/dosepic/64)
+- Стрим про Accelerate State of DevOps Report 2022
 - [DevOps для CTO на South HUB](https://enabling.team/insights/devops-for-cto)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://enabling.team/insights/team-topologies-for-teamleads)
 - [Стрим про компетенции платформенных команд](https://aaleksandrov.me/ru/blog/konspekt-strima-kompetencii-platformennoy-komandy-u-dosepic/)
