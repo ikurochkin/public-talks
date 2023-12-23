@@ -27,7 +27,7 @@ Slides, videos, and supporting files for my public talks.
 - [Дискуссионный книжный клуб #1 Agile 2: The next iteration of Agile](https://www.youtube.com/watch?v=0aIHx0ZFo8g) 
 
 2021
-- [Воркшоп топологии платформенных команд на DevOops 2021](https://enabling.team/insights/team-topologies-for-platform-teams)  
+- [Воркшоп по топологиям платформенных команд на DevOops 2021](https://enabling.team/insights/team-topologies-for-platform-teams)  
 - [Воркшоп по командным топологиям на DevOpsConf 2021](https://enabling.team/insights/team-topologies-workshop)
 
 2020
