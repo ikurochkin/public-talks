@@ -4,7 +4,10 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2024
-- NextOps на DevOpsConf 2024
+- NextOps, что будет после DevOps на DevOpsConf 2024
+- AgileDays 2024
+- TeamLeadConf 2024
+- DevOops 2024
 
 2023
 - [DevOps as a movement на DevOops 2023](https://www.youtube.com/watch?v=cVPYboKqR7k)
