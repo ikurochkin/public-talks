@@ -4,7 +4,7 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2024
-- NextOps, что будет после DevOps на DevOpsConf 2024
+- [NextOps, что будет после DevOps на DevOpsConf 2024](https://conf.ontico.ru/lectures/5268731/discuss)
 - AgileDays 2024
 - TeamLeadConf 2024
 - DevOops 2024
