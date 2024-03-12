@@ -5,10 +5,9 @@ Slides, videos, and supporting files for my public talks.
 
 2024
 - [NextOps, что будет после DevOps на DevOpsConf 2024](https://devopsconf.io/moscow/2024/abstracts/11568)
-- Dump 2024
-- CodeFest 2024
-- KnowledgeConf 2024
+- [KnowledgeConf 2024](https://knowledgeconf.ru/2024/abstracts/11919)
 - DevOops 2024
+- HighLoad++ 2024
 
 2023
 - [DevOps as a movement на DevOops 2023](https://enabling.team/insights/devops-as-a-movement)
