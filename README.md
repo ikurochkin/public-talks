@@ -5,7 +5,7 @@ Slides, videos, and supporting files for my public talks.
 
 2024
 - [NextOps, что будет после DevOps на DevOpsConf 2024](https://devopsconf.io/moscow/2024/abstracts/11568)
-- [KnowledgeConf 2024](https://knowledgeconf.ru/2024/abstracts/11919)
+- [Как стать 10x экспертом на KnowledgeConf 2024](https://knowledgeconf.ru/2024/abstracts/11919)
 - DevOops 2024
 - HighLoad++ 2024
 
