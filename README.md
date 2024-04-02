@@ -5,6 +5,8 @@ Slides, videos, and supporting files for my public talks.
 
 2024
 - [NextOps, что будет после DevOps на DevOpsConf 2024](https://enabling.team/insights/nextops)
+- Подкаст Brainstorm про когнитивную нагрузку
+- Подкаст Code of Leadership про книгу Accelerate
 - [Как стать 10x экспертом на KnowledgeConf 2024](https://knowledgeconf.ru/2024/abstracts/11919)
 - DevOops 2024
 - HighLoad++ 2024
@@ -36,10 +38,11 @@ Slides, videos, and supporting files for my public talks.
 
 2019
 - [Как нарисовать DevOps на DevOops 2019](https://enabling.team/insights/how-to-draw-devops)   
+- Состояние DevOps в 2019 году на конференции Highload++ 2019
 
 2018
-- [Состояние DevOps на 2018 год на Highload++ 2018](https://www.highload.ru/moscow/2018)  
-- [DevOps или SRE на DevOps Moscow meetup 2018](https://devops-moscow.timepad.ru/event/688490/)  
+- Состояние DevOps в 2018 году на Highload++ 2018
+- [DevOps или SRE на DevOps Moscow Meetup 2018](https://devops-moscow.timepad.ru/event/688490/)  
 - [Инфраструктура как код на курсе DevOps практики и инструменты](https://www.youtube.com/watch?v=ciA4Cezw0AE&t=6s)  
 - [Современные подходы в разработке инфраструктурного кода на Puppet на DevOpsConf 2018](https://www.slideshare.net/ikurochkin/puppet-development-kit-and-best-practices)  
 
