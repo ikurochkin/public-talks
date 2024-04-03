@@ -38,7 +38,7 @@ Slides, videos, and supporting files for my public talks.
 
 2019
 - [Как нарисовать DevOps на DevOops 2019](https://enabling.team/insights/how-to-draw-devops)   
-- Состояние DevOps в 2019 году на конференции Highload++ 2019
+- [Состояние DevOps в 2019 году на конференции Highload++ 2019](https://speakerdeck.com/ikurochkin/sostoianiie-devops-v-2019-ghodu-at-highload-plus-plus-2019)
 
 2018
 - Состояние DevOps в 2018 году на Highload++ 2018
