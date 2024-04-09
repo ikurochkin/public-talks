@@ -18,7 +18,7 @@ Slides, videos, and supporting files for my public talks.
 - [Fail митап на Saint Highload++ 2023](https://highload.ru/spb/2023/abstracts/10186)
 
 2022
-- [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://www.youtube.com/watch?v=ltencqkEGxQ)
+- [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://enabling.team/insights/technology-strategy-patterns-book)
 - Стрим про Accelerate State of DevOps Report 2022
 - [DevOps для CTO на South HUB](https://enabling.team/insights/devops-for-cto)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://enabling.team/insights/team-topologies-for-teamleads)
