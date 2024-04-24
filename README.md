@@ -23,10 +23,10 @@ Slides, videos, and supporting files for my public talks.
 - [DevOps для CTO на South HUB](https://enabling.team/insights/devops-for-cto)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://enabling.team/insights/team-topologies-for-teamleads)
 - [Стрим про компетенции платформенных команд](https://aaleksandrov.me/ru/blog/konspekt-strima-kompetencii-platformennoy-komandy-u-dosepic/)
-- [Дискуссионный книжный клуб #2 Team Topologies](https://www.youtube.com/watch?v=zfZilR0iSkA)
+- [Дискуссионный книжный клуб #2 Team Topologies](https://enabling.team/insights/team-topologies-book)
 - [От DevOps к Platform Engineering на DevOpsConf 2022](https://enabling.team/insights/from-devops-to-platform-engineering)
 - [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://enabling.team/insights/team-topologies-and-agile)
-- [Дискуссионный книжный клуб #1 Agile 2: The next iteration of Agile](https://www.youtube.com/watch?v=0aIHx0ZFo8g) 
+- [Дискуссионный книжный клуб #1 Agile 2: The next iteration of Agile](https://enabling.team/insights/agile2-book) 
 
 2021
 - [Воркшоп по топологиям платформенных команд на DevOops 2021](https://enabling.team/insights/team-topologies-for-platform-teams)  
