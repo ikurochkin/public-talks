@@ -37,6 +37,7 @@ Slides, videos, and supporting files for my public talks.
 - [Состояние DevOps в России 2020 на DevOpsConf 2020](https://enabling.team/insights/state-of-devops-russia-2020)
 
 2019
+- [Состояние SRE в 2019 году на конференции DevOpsConf 2019](https://speakerdeck.com/ikurochkin/sostoianiie-sre-v-2019-ghodu-at-devopsconf-2019)
 - [Как нарисовать DevOps на DevOops 2019](https://enabling.team/insights/how-to-draw-devops)   
 - [Состояние DevOps в 2019 году на конференции Highload++ 2019](https://speakerdeck.com/ikurochkin/sostoianiie-devops-v-2019-ghodu-at-highload-plus-plus-2019)
 
