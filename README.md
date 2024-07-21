@@ -7,7 +7,7 @@ Slides, videos, and supporting files for my public talks.
 - [NextOps, что будет после DevOps на DevOpsConf 2024](https://enabling.team/insights/nextops)
 - [Подкаст Code of Leadership про книгу Accelerate](https://enabling.team/insights/accelerate-book)
 - Подкаст Brainstorm про когнитивную нагрузку
-- [Как стать 10x экспертом на KnowledgeConf 2024](https://knowledgeconf.ru/2024/abstracts/11919)
+- [Как стать 10x экспертом на KnowledgeConf 2024](https://www.youtube.com/watch?v=OcU94LOzD9I)
 - DevOops 2024
 - HighLoad++ 2024
 
