@@ -9,7 +9,8 @@ Slides, videos, and supporting files for my public talks.
 - [Подкаст Brainstorm про когнитивную нагрузку](https://www.youtube.com/watch?v=JaQSE7y6fjI)
 - [Как стать 10x экспертом на KnowledgeConf 2024](https://www.youtube.com/watch?v=OcU94LOzD9I)
 - [Митап по DevOps от Evrone](https://www.youtube.com/watch?v=gVmxYDbEMXY)
-- [Enabling команды в DevOps на DevOops 2024](https://devoops.ru/talks/235abeb6980b41479999a9525db843be)
+- [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
+- [Дискуссия про Enabling команды на DevOops 2024](https://enabling.team/insights/enabling-teams-discussion)
 
 2023
 - [DevOps as a movement на DevOops 2023](https://enabling.team/insights/devops-as-a-movement)
