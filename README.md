@@ -4,13 +4,13 @@ Slides, videos, and supporting files for my public talks.
 ## Talks
 
 2024
-- [NextOps, что будет после DevOps на DevOpsConf 2024](https://enabling.team/insights/nextops)
-- [Подкаст Code of Leadership про книгу Accelerate](https://enabling.team/insights/accelerate-book)
-- [Подкаст Brainstorm про когнитивную нагрузку](https://www.youtube.com/watch?v=JaQSE7y6fjI)
-- [Как стать 10x экспертом на KnowledgeConf 2024](https://www.youtube.com/watch?v=OcU94LOzD9I)
-- [Митап по DevOps от Evrone](https://www.youtube.com/watch?v=gVmxYDbEMXY)
-- [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
 - [Дискуссия про Enabling команды на DevOops 2024](https://enabling.team/insights/enabling-teams-discussion)
+- [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
+- [Митап по DevOps от Evrone](https://www.youtube.com/watch?v=gVmxYDbEMXY)
+- [Как стать 10x экспертом на KnowledgeConf 2024](https://enabling.team/insights/how-to-become-10x-expert)
+- [Подкаст Brainstorm про когнитивную нагрузку](https://www.youtube.com/watch?v=JaQSE7y6fjI)
+- [Подкаст Code of Leadership про книгу Accelerate](https://enabling.team/insights/accelerate-book)
+- [NextOps, что будет после DevOps на DevOpsConf 2024](https://enabling.team/insights/nextops)
 
 2023
 - [DevOps as a movement на DevOops 2023](https://enabling.team/insights/devops-as-a-movement)
