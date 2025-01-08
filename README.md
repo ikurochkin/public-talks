@@ -16,7 +16,7 @@ Slides, videos, and supporting files for my public talks.
 - [DevOps as a movement на DevOops 2023](https://enabling.team/insights/devops-as-a-movement)
 - [Подкаст про Knowledge Management и Obsidian для инженеров](https://jtprogru.mave.digital/ep-7)
 - [Подкаст про книгу Проект Феникс](https://jtprogru.mave.digital/ep-5)
-- [Fail митап на Saint Highload++ 2023](https://highload.ru/spb/2023/abstracts/10186)
+- [Fail митап на Saint HighLoad++ 2023](https://highload.ru/spb/2023/abstracts/10186)
 
 2022
 - [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://enabling.team/insights/technology-strategy-patterns-book)
@@ -40,11 +40,11 @@ Slides, videos, and supporting files for my public talks.
 2019
 - [Состояние SRE в 2019 году на конференции DevOpsConf 2019](https://speakerdeck.com/ikurochkin/sostoianiie-sre-v-2019-ghodu-at-devopsconf-2019)
 - [Как нарисовать DevOps на DevOops 2019](https://enabling.team/insights/how-to-draw-devops)   
-- [Состояние DevOps в 2019 году на конференции Highload++ 2019](https://speakerdeck.com/ikurochkin/sostoianiie-devops-v-2019-ghodu-at-highload-plus-plus-2019)
+- [Состояние DevOps в 2019 году на конференции HighLoad++ 2019](https://speakerdeck.com/ikurochkin/sostoianiie-devops-v-2019-ghodu-at-highload-plus-plus-2019)
 
 2018
-- Состояние DevOps в 2018 году на Highload++ 2018
-- [DevOps или SRE на DevOps Moscow Meetup 2018](https://devops-moscow.timepad.ru/event/688490/)  
+- Состояние DevOps в 2018 году на HighLoad++ 2018
+- [Состояние DevOps и SRE на DevOps Moscow Meetup 2018](https://enabling.team/insights/state-of-devops-and-sre-2018)  
 - [Инфраструктура как код на курсе DevOps практики и инструменты](https://www.youtube.com/watch?v=ciA4Cezw0AE&t=6s)  
 - [Современные подходы в разработке инфраструктурного кода на Puppet на DevOpsConf 2018](https://www.slideshare.net/ikurochkin/puppet-development-kit-and-best-practices)  
 
@@ -53,4 +53,4 @@ Slides, videos, and supporting files for my public talks.
 - [Тестируем инфраструктуру как код на RootConf 2015](https://www.slideshare.net/ikurochkin/rootconf-2015)  
 
 2012
-- [Большая книга рецептов или часто задаваемые вопросы по управлению сложными проектами на Highload++ 2012](https://www.slideshare.net/ikurochkin/ss-46998617)
+- [Большая книга рецептов или часто задаваемые вопросы по управлению сложными проектами на HighLoad++ 2012](https://www.slideshare.net/ikurochkin/ss-46998617)
