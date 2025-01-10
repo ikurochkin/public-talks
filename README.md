@@ -1,5 +1,5 @@
 # My public talks
-Slides, videos, and supporting files for my public talks.
+Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of public speaking engagements. Here, you’ll find slides, videos, and supporting materials from my talks on #devops, #teamtopologies, #platformengineering, #developerexperience.
 
 ## Talks
 
