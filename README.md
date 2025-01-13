@@ -46,7 +46,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 - Состояние DevOps в 2018 году на HighLoad++ 2018
 - [Состояние DevOps и SRE на DevOps Moscow Meetup 2018](https://enabling.team/insights/state-of-devops-and-sre-2018)  
 - [Инфраструктура как код на курсе DevOps практики и инструменты](https://enabling.team/insights/infrastructure-as-code)  
-- [Современные подходы в разработке инфраструктурного кода на Puppet на DevOpsConf 2018](https://www.slideshare.net/ikurochkin/puppet-development-kit-and-best-practices)  
+- [Современные подходы в разработке инфраструктурного кода на Puppet на DevOpsConf 2018](https://enabling.team/insights/modern-infrastructure-as-code)  
 
 2015
 - [Статья про тестирование инфраструктуры как код](https://habr.com/ru/company/express42/blog/256725/)  
