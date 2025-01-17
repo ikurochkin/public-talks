@@ -20,7 +20,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 
 2022
 - [Книжный клуб Code of Architecture - Technology Strategy Patterns](https://enabling.team/insights/technology-strategy-patterns-book)
-- Стрим про Accelerate State of DevOps Report 2022
+- [Стрим про Accelerate State of DevOps Report 2022](https://enabling.team/insights/accelerate-state-of-devops-2022)
 - [DevOps для CTO на South HUB](https://enabling.team/insights/devops-for-cto)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://enabling.team/insights/team-topologies-for-teamleads)
 - [Стрим про компетенции платформенных команд](https://enabling.team/insights/platform-team-competences)
