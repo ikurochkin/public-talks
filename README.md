@@ -23,7 +23,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 - Стрим про Accelerate State of DevOps Report 2022
 - [DevOps для CTO на South HUB](https://enabling.team/insights/devops-for-cto)
 - [МК Team Topologies для тимлида на TeamLeadConf 2022](https://enabling.team/insights/team-topologies-for-teamleads)
-- [Стрим про компетенции платформенных команд](https://aaleksandrov.me/ru/blog/konspekt-strima-kompetencii-platformennoy-komandy-u-dosepic/)
+- [Стрим про компетенции платформенных команд](https://enabling.team/insights/platform-team-competences)
 - [Дискуссионный книжный клуб #2 Team Topologies](https://enabling.team/insights/team-topologies-book)
 - [От DevOps к Platform Engineering на DevOpsConf 2022](https://enabling.team/insights/from-devops-to-platform-engineering)
 - [Воркшоп по исследованию команд с помощью Team Topologies на AgileDays 2022](https://enabling.team/insights/team-topologies-and-agile)
@@ -50,7 +50,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 
 2015
 - [Статья про тестирование инфраструктуры как код](https://habr.com/ru/company/express42/blog/256725/)  
-- [Тестируем инфраструктуру как код на RootConf 2015](https://www.slideshare.net/ikurochkin/rootconf-2015)  
+- [Тестируем инфраструктуру как код на RootConf 2015](https://speakerdeck.com/ikurochkin/tiestiruiem-infrastrukturu-kak-kod-at-rootconf-2015)  
 
 2012
 - [Большая книга рецептов или часто задаваемые вопросы по управлению сложными проектами на HighLoad++ 2012](https://www.slideshare.net/ikurochkin/ss-46998617)
