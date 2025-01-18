@@ -50,7 +50,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 
 2015
 - [Статья про тестирование инфраструктуры как код](https://habr.com/ru/company/express42/blog/256725/)  
-- [Тестируем инфраструктуру как код на RootConf 2015](https://speakerdeck.com/ikurochkin/tiestiruiem-infrastrukturu-kak-kod-at-rootconf-2015)  
+- [Тестируем инфраструктуру как код на RootConf 2015](https://enabling.team/insights/testing-infrastructure-as-code)  
 
 2012
 - [Большая книга рецептов или часто задаваемые вопросы по управлению сложными проектами на HighLoad++ 2012](https://www.slideshare.net/ikurochkin/ss-46998617)
