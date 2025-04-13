@@ -3,6 +3,9 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 
 ## Talks
 
+2025
+- [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
+
 2024
 - [Дискуссия про Enabling команды на DevOops 2024](https://enabling.team/insights/enabling-teams-discussion)
 - [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
