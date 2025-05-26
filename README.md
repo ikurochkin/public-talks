@@ -4,6 +4,7 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 ## Talks
 
 2025
+- [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
 - [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
 
 2024
