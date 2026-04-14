@@ -3,6 +3,9 @@ Welcome to [Igor Kurochkin](https://github.com/ikurochkin)'s collection of publi
 
 ## Talks
 
+2026
+- [Технологический радар конференции DevOpsConf 2026](https://enabling.team/insights/technology-radar-for-devopsconf-2026)
+
 2025
 - [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
 - [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
